@@ -1,0 +1,20 @@
+{
+  "name": "m2rax_cli_calculator",
+  "version": "1.0.1",
+  "description": "A Simple Calculator using Inquirer Library with Node.js and TypeScript",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahir Ahmed Sheikh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
+ 
